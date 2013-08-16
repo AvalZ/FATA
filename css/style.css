@@ -1,0 +1,228 @@
+/* CSS Document */
+
+html {
+    width: 100%;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #6d6b6c;
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.fitHeight {
+    clear: both;
+    height: 0;
+    background: none;
+}
+
+body > div {
+    width: 960px;
+    color: #FFF;
+    margin: 0 auto;
+}
+
+/* Header */
+#header {
+    margin-top: 5px;
+    background: #363636;
+    -webkit-user-select: none; /* Chrome/Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+ */
+}
+#header #logo {
+    width: 450px;
+    float: left;
+}
+#header #logo img {
+    margin-left: 15px;
+}
+#header #flag-ita {
+    float:right;
+    margin: 80px 3px 0;
+}
+#header #flag-eng {
+    float:right;
+    margin: 80px 25px 0 3px;
+}
+
+#header #menu {
+    background: #e30c2e;
+    height: 37px; width: 980px;
+    margin-left: -10px;
+    position: relative;
+    font-size: 24px;
+    z-index: 200;
+    -webkit-box-shadow: 1px 5px 5px rgba(0, 0, 0, 0.22);
+    -moz-box-shadow:    1px 5px 5px rgba(0, 0, 0, 0.22);
+    box-shadow:         1px 5px 5px rgba(0, 0, 0, 0.22);
+}
+#header #menu ul {
+    margin: 0 auto;
+    padding-left: 122px;
+    padding-top: 3px;
+}
+#header #menu li {
+    font-weight: 300;
+    display: inline-block;
+    margin: 7px 10px;
+    font-size: 14px;
+}
+
+#home #home, #equipe #equipe, #servizi #servizi, #realizzazioni #realizzazioni, #contatti #contatti {
+    color: black;
+    cursor: default;
+}
+
+
+/* Content */
+#content {
+    background: #363636;
+    -webkit-user-select: none; /* Chrome/Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+ */
+    z-index: 0;
+}
+#content > p {
+    text-align: justify;
+    font-size: 14px;
+    margin: 0 10px 20px;
+    color: #999;
+}
+#content > p > span {
+    font-style: italic;
+}
+#content #slider img {
+    width: 100%;
+}
+#content #slider .cycle-pager {
+    font-size: 55px;
+    margin: -14px 10px 0 10px;
+    text-align: right;
+    z-index: 10;
+    width: 80px;
+    float: right;
+}
+#content #slider .cycle-pager span:nth-child(1) {
+    color: #e30c2e;
+}
+#content #slider .cycle-pager span:nth-child(2) {
+    color: #439ffc;
+}
+#content #slider .cycle-pager span:nth-child(3) {
+    color: #90ca48;
+}
+#content #slider .cycle-pager span:nth-child(4) {
+    color: #f8cf2c;
+}
+#content #slider .cycle-pager span:nth-child(5) {
+    display: none;
+}
+#content #slider .cycle-pager .cycle-pager-active {
+}
+#content #slider .cycle-pager span {
+    cursor: pointer;
+}
+
+#content #images {
+    padding: 0 4px 0 5px;
+}
+
+#content #images > div {
+    width: 307px; height: 200px;
+    margin: 5px;
+    float: left;
+}
+#content #images .fading {
+    width: 100%; height: 100%;
+    opacity: 0.5;
+    z-index: 0;
+}
+#content #images > div .logo {
+    opacity: 1;
+    width: 31px; height: 30px;
+    position: absolute;
+    top: 6px;
+}
+#content #images .title {
+    width: 287px; height: 22px;
+    margin: 30px 0; padding: 10px;
+    position: absolute;
+    z-index: 10;
+    font-size: 14px; text-transform: uppercase; font-weight: lighter;
+    background: #e30c2e;
+    cursor: pointer;
+}
+#content #images .title p {
+    margin-bottom: 0px;
+    margin-left: 40px;
+    margin-top: -5px;
+}
+#content #images div:nth-child(1) .title {
+    background: #e30c2e;
+}
+#content #images div:nth-child(1) .title p {
+    margin-top: 2px;
+}
+#content #images div:nth-child(2) .title {
+    background: #439ffc;
+}
+
+#equipe #content #images div:nth-child(2) .title p {
+    margin-top: 2px;
+}
+
+#content #images div:nth-child(3) .title {
+    background: #8fca47;
+}
+#content #images div:nth-child(3) .title p {
+    margin-top: 2px;
+}
+#content #images div:nth-child(4) .title {
+    background: #439ffc;
+}
+#content #images div:nth-child(5) .title {
+    background: #8fca47;
+}
+#content #images div:nth-child(6) .title {
+    background: #e30c2e;
+}
+
+#content #images .title ul {
+    font-size: 12px;
+    margin-left: 16px;
+    margin-top: 7px;
+}
+#content #images div:nth-child(1) .title ul {
+    margin-top: 0;
+}
+#content #images div:nth-child(3) .title ul {
+    margin-top: 0;
+}
+
+#content #map-canvas {
+    height: 431px;
+}
+
+/* Footer */
+#footer {
+    width: 940px;
+    padding: 10px;
+    background: #363636;
+    text-align: center;
+    color:#999;
+    font-size: 14px; font-weight: 300;
+}
+#footer a {
+    color: #e30c2e;
+}
+
+.cycle-slideshow {
+
+}
