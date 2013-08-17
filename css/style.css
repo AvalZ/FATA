@@ -214,6 +214,10 @@ body > div {
     padding: 10px;
 }
 
+#content #description p {
+    color: #999;
+}
+
 /* Footer */
 #footer {
     width: 940px;

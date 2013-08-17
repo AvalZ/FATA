@@ -49,7 +49,6 @@
             <!-- END slider -->
 
             <div id="description">
-                <!-- Inserire Costruzioni -->
                 <h2>Civili</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id libero tempus, pretium leo in, varius leo. Maecenas volutpat malesuada metus vitae convallis. Nulla ac nisi non felis vehicula porttitor. In massa lacus, viverra sit amet libero id, sodales porttitor libero. Fusce at ultrices ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla vitae massa in orci posuere viverra. Phasellus nec ornare lectus. Nulla vel nisl mollis, tempor nunc in, dapibus velit. Praesent arcu erat, lacinia sed pulvinar vel, cursus in dolor. Sed congue tincidunt nulla vel pharetra. Sed ac quam diam.</p>
                 <h2>Industriali</h2>
