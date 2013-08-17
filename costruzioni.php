@@ -52,9 +52,9 @@
                 <!-- Inserire Costruzioni -->
                 <h2>Civili</h2>
                 <h2>Industriali</h2>
+                <div class = "fitHeight"></div>
             </div>
             <!-- END description -->
-            <div class = "fitHeight"></div>
         </div>
         <!-- END content -->
 
