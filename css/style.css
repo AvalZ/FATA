@@ -210,6 +210,10 @@ body > div {
     height: 431px;
 }
 
+#content #description {
+    padding: 10px;
+}
+
 /* Footer */
 #footer {
     width: 940px;
