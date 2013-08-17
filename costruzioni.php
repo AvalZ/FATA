@@ -47,6 +47,13 @@
                 <div class="fitHeight"></div>
             </div>
             <!-- END slider -->
+
+            <div id="description">
+                <!-- Inserire Costruzioni -->
+                <h2>Civili</h2>
+                <h2>Industriali</h2>
+            </div>
+            <!-- END description -->
             <div class = "fitHeight"></div>
         </div>
         <!-- END content -->
