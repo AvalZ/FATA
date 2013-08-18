@@ -48,7 +48,7 @@
             </div>
             <!-- END slider -->
             <div id = "images">
-                <div id = "1-1"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Costruzioni</p></div><img class = "fading" src = "img/content1.jpg" /></div>
+                <div id = "1-1"><a href="costruzioni.php"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Costruzioni</p></div><img class = "fading" src = "img/content1.jpg" /></a></div>
                 <div id = "1-2"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Impiantistica<br/>Idraulica</p></div><img  class = "fading" src = "img/content2.jpg" /></div>
                 <div id = "1-3"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Giardinaggio</p></div><img class = "fading"  src = "img/content3.jpg" /></div>
                 <div id = "2-1"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Fornitura<br/>e Posa in Opera</p></div><img class = "fading"  src = "img/content4.jpg" /></div>
