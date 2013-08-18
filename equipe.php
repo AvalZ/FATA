@@ -29,6 +29,7 @@
                 <img src="img/equipe/03.jpg" alt="slider" />
                 <img src="img/equipe/04.jpg" alt="slider" />
                 <img src="img/equipe/05.jpg" alt="slider" />
+                <img src="img/equipe/06.jpg" alt="slider" />
 
 
                 <!-- Pager -->
