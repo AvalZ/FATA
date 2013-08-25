@@ -62,16 +62,16 @@
                                 </li>
                             </ul>
                         </div><img class = "fading" src = "img/content1.jpg" /></a></div>
-                <div id = "1-2">
-                    <div class = "title">
-                        <img class="logo" src="img/minilogo.png" /><p>Impiantistica<br/>Idraulica</p>
-                        <ul>
-                            <li>Termoidraulica</li>
-                            <li>Solare</li>
-                            <li>Centrali Termiche</li>
-                            <li>Realizzazione <br/> Contabilizzazione Centralizzata</li>
-                        </ul>
-                    </div><img  class = "fading" src = "img/content2.jpg" /></div>
+                <div id = "1-2"><a href="impidraulica.php">
+                        <div class = "title">
+                            <img class="logo" src="img/minilogo.png" /><p>Impiantistica<br/>Idraulica</p>
+                            <ul>
+                                <li>Termoidraulica</li>
+                                <li>Solare</li>
+                                <li>Centrali Termiche</li>
+                                <li>Realizzazione <br/> Contabilizzazione Centralizzata</li>
+                            </ul>
+                        </div><img  class = "fading" src = "img/content2.jpg" /></a></div>
                 <div id = "1-3">
                     <div class = "title">
                         <img class="logo" src="img/minilogo.png" /><p>Giardinaggio</p><br/>

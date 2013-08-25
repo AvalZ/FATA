@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8"/>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>Costruzioni</title>
+        <title>Impiantistica Idraulica</title>
 
         <meta name="description" content="La cooperativa è formata da artigiani specializzati i quali offrono piena professionalità per i servizi proposti dalla società.">
 
@@ -36,10 +36,10 @@
                  data-cycle-auto-height="0"
                  >
                 <!-- Elenco immagini -->
-                <img src="img/servizi/costruzioni/01.jpg" alt="slider" />
-                <img src="img/servizi/costruzioni/02.jpg" alt="slider" />
-                <img src="img/servizi/costruzioni/03.jpg" alt="slider" />
-                <img src="img/servizi/costruzioni/04.jpg" alt="slider" />
+                <img src="img/servizi/impidraulica/01.jpg" alt="slider" />
+                <img src="img/servizi/impidraulica/02.jpg" alt="slider" />
+                <img src="img/servizi/impidraulica/03.jpg" alt="slider" />
+                <img src="img/servizi/impidraulica/04.jpg" alt="slider" />
 
 
                 <!-- Pager -->
@@ -50,11 +50,13 @@
             <!-- END slider -->
 
             <div id="description">
-                <h2>Civili</h2>
+                <h2>Termoidraulica</h2>
                 <p>under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction</p>
-                <h2>Industriali</h2>
+                <h2>Solare</h2>
                 <p>under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction</p>
-                <h2>Stradali</h2>
+                <h2>Centrali Termiche</h2>
+                <p>under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction</p>
+                <h2>Realizzazione Contabilizzazione Centralizzata</h2>
                 <p>under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction</p>
                 <div class = "fitHeight"></div>
             </div>
@@ -66,8 +68,4 @@
 
     </body>
     <!-- END home -->
-</html>
-</html>
-</html>
-</html>
 </html>
