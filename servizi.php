@@ -46,22 +46,22 @@
             </div>
             <!-- END slider -->
             <div id = "images">
-                <div id = "1-1">
-                    <div class = "title">
-                        <img class="logo" src="img/minilogo.png" /><p>Costruzioni</p>
-                        <br/>
-                        <ul>
-                            <li>
-                                Civili
-                            </li>
-                            <li>
-                                Industriali
-                            </li>
-                            <li>
-                                Stradali
-                            </li>
-                        </ul>
-                    </div><img class = "fading" src = "img/content1.jpg" /></div>
+                <div id = "1-1"><a href="costruzioni.php">
+                        <div class = "title">
+                            <img class="logo" src="img/minilogo.png" /><p>Costruzioni</p>
+                            <br/>
+                            <ul>
+                                <li>
+                                    Civili
+                                </li>
+                                <li>
+                                    Industriali
+                                </li>
+                                <li>
+                                    Stradali
+                                </li>
+                            </ul>
+                        </div><img class = "fading" src = "img/content1.jpg" /></a></div>
                 <div id = "1-2">
                     <div class = "title">
                         <img class="logo" src="img/minilogo.png" /><p>Impiantistica<br/>Idraulica</p>

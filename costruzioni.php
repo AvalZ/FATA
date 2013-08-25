@@ -36,10 +36,10 @@
                  data-cycle-auto-height="0"
                  >
                 <!-- Elenco immagini -->
-                <img src="img/slider1.jpg" alt="slider" />
-                <img src="img/slider2.jpg" alt="slider" />
-                <img src="img/slider3.jpg" alt="slider" />
-                <img src="img/slider4.jpg" alt="slider" />
+                <img src="img/servizi/costruzioni/1.jpg" alt="slider" />
+                <img src="img/servizi/costruzioni/2.jpg" alt="slider" />
+                <img src="img/servizi/costruzioni/3.jpg" alt="slider" />
+                <img src="img/servizi/costruzioni/4.jpg" alt="slider" />
 
 
                 <!-- Pager -->
