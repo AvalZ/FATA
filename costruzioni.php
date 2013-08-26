@@ -67,7 +67,3 @@
     </body>
     <!-- END home -->
 </html>
-</html>
-</html>
-</html>
-</html>
