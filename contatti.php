@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>FATA - Società Cooperativa</title>
+        <title>Contatti</title>
 
         <link rel="shortcut icon" href="favicon.ico"/>
 
@@ -21,24 +21,24 @@
             function initialize() {
                 var mapOptions = {
                     zoom: 15,
-                    center: new google.maps.LatLng( 43.95199, 8.15137 ),
+                    center: new google.maps.LatLng(43.95199, 8.15137),
                     mapTypeId: google.maps.MapTypeId.ROADMAP
                             // "Centro" Liguria 44.24520, 8.88245
                             // Via S. Michele, 5, Andora    43.95199, 8.15137
                 };
-                map = new google.maps.Map( document.getElementById( 'map-canvas' ),
-                        mapOptions );
+                map = new google.maps.Map(document.getElementById('map-canvas'),
+                        mapOptions);
 
                 var image = 'img/minilogo.png';
-                var FataCoord = new google.maps.LatLng( 43.95199, 8.15137 );
-                var FataMarker = new google.maps.Marker( {
+                var FataCoord = new google.maps.LatLng(43.95199, 8.15137);
+                var FataMarker = new google.maps.Marker({
                     position: FataCoord,
                     map: map,
                     icon: image
-                } );
+                });
             }
 
-            google.maps.event.addDomListener( window, 'load', initialize );
+            google.maps.event.addDomListener(window, 'load', initialize);
 
         </script>
     </head>

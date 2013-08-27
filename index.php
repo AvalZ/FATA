@@ -50,10 +50,10 @@
             <div id = "images">
                 <div id = "1-1" onclick="window.location = 'costruzioni.php';"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Costruzioni</p></div><img class = "fading" src = "img/content1.jpg" /></div>
                 <div id = "1-2" onclick="window.location = 'impidraulica.php';"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Impiantistica<br/>Idraulica</p></div><img  class = "fading" src = "img/content2.jpg" /></div>
-                <div id = "1-3"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Giardinaggio</p></div><img class = "fading"  src = "img/content3.jpg" /></div>
-                <div id = "2-1"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Fornitura<br/>e Posa in Opera</p></div><img class = "fading"  src = "img/content4.jpg" /></div>
-                <div id = "2-2"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Restauro<br/>facciate</p></div><img class = "fading"  src = "img/content5.jpg" /></div>
-                <div id = "2-3"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Proposte<br/>in vendita</p></div><img class = "fading"  src = "img/content6.jpg" /></div>
+                <div id = "1-3" onclick="window.location = 'giardinaggio.php';"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Giardinaggio</p></div><img class = "fading"  src = "img/content3.jpg" /></div>
+                <div id = "2-1" onclick="window.location = 'fornitura.php';"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Fornitura<br/>e Posa in Opera</p></div><img class = "fading"  src = "img/content4.jpg" /></div>
+                <div id = "2-2" onclick="window.location = 'restauro.php';"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Restauro<br/>facciate</p></div><img class = "fading"  src = "img/content5.jpg" /></div>
+                <div id = "2-3"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Proposte</p></div><img class = "fading"  src = "img/content6.jpg" /></div>
             </div>
             <!-- END images -->
             <div class = "fitHeight"></div>

@@ -166,10 +166,10 @@ body > div {
 #content #images div:nth-child(1) .title p {
     margin-top: 2px;
 }
+
 #content #images div:nth-child(2) .title {
     background: #439ffc;
 }
-
 #equipe #content #images div:nth-child(2) .title p {
     margin-top: 2px;
 }
@@ -180,14 +180,20 @@ body > div {
 #content #images div:nth-child(3) .title p {
     margin-top: 2px;
 }
+
 #content #images div:nth-child(4) .title {
     background: #439ffc;
 }
+
 #content #images div:nth-child(5) .title {
     background: #8fca47;
 }
+
 #content #images div:nth-child(6) .title {
     background: #e30c2e;
+}
+#content #images div:nth-child(6) .title p {
+    margin-top: 2px;
 }
 
 #content #images .title ul {

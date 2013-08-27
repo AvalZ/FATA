@@ -72,41 +72,41 @@
                                 <li>Realizzazione <br/> Contabilizzazione Centralizzata</li>
                             </ul>
                         </div><img  class = "fading" src = "img/content2.jpg" /></a></div>
-                <div id = "1-3">
-                    <div class = "title">
-                        <img class="logo" src="img/minilogo.png" /><p>Giardinaggio</p><br/>
-                        <ul>
-                            <li>Progettazione Tree<br/>Climbing</li>
-                            <li>Manutenzione</li>
-                            <li>Impianti di Irrigazione</li>
-                            <li>Giardini Zen</li>
-                        </ul>
-                    </div><img class = "fading"  src = "img/content3.jpg" /></div>
-                <div id = "2-1">
-                    <div class = "title">
-                        <img class="logo" src="img/minilogo.png" /><p>Fornitura<br/>e Posa in Opera</p>
-                        <ul>
-                            <li>Tendaggi da sole</li>
-                            <li>Serramenti</li>
-                            <li>Zanzariere</li>
-                            <li>Pavimenti e Rivestimenti</li>
-                        </ul>
-                    </div><img class = "fading"  src = "img/content4.jpg" /></div>
-                <div id = "2-2">
-                    <div class = "title">
-                        <img class="logo" src="img/minilogo.png" /><p>Restauro<br/>facciate</p>
-                        <ul>
-                            <li>DECORAZIONI ESTERNE</li>
-                            <li>DECORAZIONI ARTISTICHE<br/>TROMPE L’OEIL E PITTURE MURALI</li>
-                            <li>RIVESTIMENTI PLASTICI CONTINUI</li>
-                            <li>CAPPOTTI</li>
-                            <li>INSUFFLAZIONE DI FIBRA DI CELLULOSA</li>
-                            <li>IMPERMEABILIZZAZIONI</li>
-                        </ul>
-                    </div><img class = "fading"  src = "img/content5.jpg" /></div>
+                <div id = "1-3"><a href="giardinaggio.php">
+                        <div class = "title">
+                            <img class="logo" src="img/minilogo.png" /><p>Giardinaggio</p><br/>
+                            <ul>
+                                <li>Progettazione Tree<br/>Climbing</li>
+                                <li>Manutenzione</li>
+                                <li>Impianti di Irrigazione</li>
+                                <li>Giardini Zen</li>
+                            </ul>
+                        </div><img class = "fading"  src = "img/content3.jpg" /></a></div>
+                <div id = "2-1"><a href="fornitura.php">
+                        <div class = "title">
+                            <img class="logo" src="img/minilogo.png" /><p>Fornitura<br/>e Posa in Opera</p>
+                            <ul>
+                                <li>Tendaggi da sole</li>
+                                <li>Serramenti</li>
+                                <li>Zanzariere</li>
+                                <li>Pavimenti e Rivestimenti</li>
+                            </ul>
+                        </div><img class = "fading"  src = "img/content4.jpg" /></a></div>
+                <div id = "2-2"><a href="restauro.php">
+                        <div class = "title">
+                            <img class="logo" src="img/minilogo.png" /><p>Restauro<br/>facciate</p>
+                            <ul>
+                                <li>DECORAZIONI ESTERNE</li>
+                                <li>DECORAZIONI ARTISTICHE<br/>TROMPE L’OEIL E PITTURE MURALI</li>
+                                <li>RIVESTIMENTI PLASTICI CONTINUI</li>
+                                <li>CAPPOTTI</li>
+                                <li>INSUFFLAZIONE DI FIBRA DI CELLULOSA</li>
+                                <li>IMPERMEABILIZZAZIONI</li>
+                            </ul>
+                        </div><img class = "fading"  src = "img/content5.jpg" /></a></div>
                 <div id = "2-3">
                     <div class = "title">
-                        <img class="logo" src="img/minilogo.png" /><p>Proposte<br/>in vendita</p>
+                        <img class="logo" src="img/minilogo.png" /><p>Proposte</p>
                     </div><img class = "fading"  src = "img/content6.jpg" /></div>
             </div>
             <!-- END images -->
