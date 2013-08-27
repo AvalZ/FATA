@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>FATA - Società Cooperativa</title>
+        <title>Staff</title>
 
         <meta name="description" content="La cooperativa è formata da artigiani specializzati i quali offrono piena professionalità per i servizi proposti dalla società.">
 
@@ -35,10 +35,10 @@
                  data-cycle-auto-height="0"
                  >
                 <!-- Elenco immagini -->
-                <img src="img/slider1.jpg" alt="slider" />
-                <img src="img/slider2.jpg" alt="slider" />
-                <img src="img/slider3.jpg" alt="slider" />
-                <img src="img/slider4.jpg" alt="slider" />
+                <img src="img/equipe/Staff/01.jpg" alt="slider" />
+                <img src="img/equipe/Staff/02.jpg" alt="slider" />
+                <img src="img/equipe/Staff/03.jpg" alt="slider" />
+                <img src="img/equipe/Staff/04.jpg" alt="slider" />
 
 
                 <!-- Pager -->
@@ -49,11 +49,9 @@
             <!-- END slider -->
 
             <div id="description">
-                <h2>Civili</h2>
+                <h2>Piero Nicolosi</h2>
                 <p>under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction</p>
-                <h2>Industriali</h2>
-                <p>under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction</p>
-                <h2>Stradali</h2>
+                <h2>Maurizio Nicolosi</h2>
                 <p>under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction under_construction</p>
                 <div class = "fitHeight"></div>
             </div>

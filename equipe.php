@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>FATA - Società Cooperativa</title>
+        <title>Equipe</title>
 
         <link rel="shortcut icon" href="favicon.ico"/>
 
@@ -31,7 +31,6 @@
                 <img src="img/equipe/05.jpg" alt="slider" />
                 <img src="img/equipe/06.jpg" alt="slider" />
 
-
                 <!-- Pager -->
 
                 <div class="cycle-pager"></div>
@@ -45,7 +44,7 @@
             <div id = "images">
 
 
-                <div id = "1-1"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Staff</p></div><img class = "fading" src = "img/equipe/Staff.jpg" /></div>
+                <div id = "1-1"><a href="staff.php"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Staff</p></div><img class = "fading" src = "img/equipe/Staff.jpg" /></a></div>
                 <div id = "1-2"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Ufficio</p></div><img  class = "fading" src = "img/equipe/Ufficio.jpg" /></div>
                 <div id = "1-3"><div class = "title"><img class="logo" src="img/minilogo.png" /><p>Andora (SV)</p></div><img class = "fading"  src = "img/equipe/Andora.jpg" /></div>
             </div>
