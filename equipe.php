@@ -21,6 +21,7 @@
                  data-cycle-fx="fade"
                  data-cycle-speed="2000"
                  data-cycle-timeout="1000"
+                 data-cycle-manual-speed="200"
                  data-cycle-auto-height="0"
                  >
                 <!-- Elenco immagini -->
